@@ -18,7 +18,7 @@ function App() {
   const theme = createTheme({
     breakpoints: {
       'xs': '320px',
-      'sm': '476px',
+      'sm': '477px',
       'md': '640px',
       'bs': '768px',
       'lg': '900px',
