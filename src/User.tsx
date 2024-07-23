@@ -1,8 +1,8 @@
 import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin, IconBrandYoutube } from "@tabler/icons-react";
 const Info = {
-    name: "Chandrabhan Maurya",
-    stack: ["Software Engineer", "Full Stack Developer", "Competitive Programmer", "Freelancer", "Open Source Contributor"],
-    bio: "I'm a passionate software engineer specialized in crafting efficient and scalable solutions, deliver top-notch web applications, and provide freelance services that exceed client expectations. Let's connect and create something amazing together!"
+    name: "Arjun Jain",
+    stack: ["Software Engineer", "Full Stack Developer", "Competitive Programmer", "Open Source Contributor"],
+    bio: "I'm a passionate software engineer specialized in crafting efficient and scalable solutions, deliver top-notch web applications. Let's connect and create something amazing together!"
 }
 
 
@@ -85,28 +85,27 @@ const SkillInfo = [
     }
 ]
 const socialLinks = [
-    { link: "https://github.com/Code-Mars", icon: IconBrandGithub },
-    { link: "https://www.linkedin.com/in/chandrabhan-maurya", icon: IconBrandLinkedin },
-    { link: "https://www.instagram.com/code.marshal_", icon: IconBrandInstagram }, 
-    { link: "https://www.youtube.com/channel/UC1ki6jaFvFiH_E79b9FYptw", icon: IconBrandYoutube },
-    { link: "https://www.leetcode.com/u/CodeMars", icon: IconBrandLeetcode }
+    { link: "https://github.com/arjun28jain", icon: IconBrandGithub },
+    { link: "https://www.linkedin.com/in/arjun-jain-8821a0212/", icon: IconBrandLinkedin },
+    { link: "https://www.instagram.com/arjun28jain/", icon: IconBrandInstagram }, 
+    { link: "https://www.youtube.com/@ArjunJain-gx7wt", icon: IconBrandYoutube },
+    { link: "https://leetcode.com/u/arjun28jain/", icon: IconBrandLeetcode }
 ];
 
 
 const ExperienceInfo = [
     {
-        role: "Specialist Programmer",
-        company: "Infosys",
-        date: "Oct 2023 - Present",
-        desc: "I led software development with Spring Boot, React, and Angular, creating scalable microservices and interfaces. I optimized performance by integrating frontend and backend, and enhanced security with RESTful APIs. Collaborating in agile teams, I fostered innovation and efficiency for top-quality solutions.",
-        skills: ["Springboot", "React JS", "Angular", "Node JS", "MySQL", "MongoDB", "Microservices"]
+        role: "Frontend Web Developer",
+        company: "Cognifyz Technologies",
+        date: "May-June 2024",
+        desc: "I led frontend web development with Javascript, React, creating scalable microservices and interfaces. I optimized performance by integrating frontend and backend, and enhanced security with RESTful APIs. Collaborating in agile teams, I fostered innovation and efficiency for top-quality solutions.",
+        skills: ["JavaScript", "React JS", "Next JS", "Node JS", "MySQL", "MongoDB", "Microservices"]
     },
     {
-        role: "System Engineer",
-        company: "Infosys",
-        date: "Nov 2022 - Sep 2023",
-        desc: " I leveraged my skills in Java, Selenium, automation testing, and MySQL to design and implement automated testing frameworks, ensuring robust software validation. I optimized database performance and reliability, and collaborated with cross-functional teams to enhance system operations and ensure seamless integration.",
-        skills: ["Java", "MySQL", "Hibernate", "Selenium", "Jenkins", "JIRA", "Automation Testing"]
+        role: "Techno-Managerial Society AKGEC",
+        company: "HORIZON",
+        date: "April 2022 - present",
+        skills: ["Oratory", "Technical Content Writing", "Team Management"]
     }
 ]
 const Slugs = [
